@@ -1,3 +1,7 @@
+I want port this to OS X, because the Java or Chrome version are just too bad. Do it later.
+
+I need better performance and customable resolution.
+
 #Moonlight iOS
 
 #### Now available on the [App Store](https://itunes.apple.com/us/app/moonlight-game-streaming/id1000551566?mt=8) 
@@ -12,3 +16,4 @@ We currently cannot port Moonlight to Apple TV due to a limitation in the tvOS S
 
 ##### Questions?
 Check out our [wiki](https://github.com/moonlight-stream/moonlight-docs/wiki).
+
