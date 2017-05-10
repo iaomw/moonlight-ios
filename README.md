@@ -1,8 +1,10 @@
-#I want port this to OS X, because the Java and Chrome version are just too bad.
+# Moonlight X
 
-#I need better performance and customable resolution.
+## Why do I want to port this to OS X? 
+## Because the Java and Chrome version are just too bad.
+## And I need better performance with customable resolution.
 
-#Moonlight iOS
+---
 
 #### Now available on the [App Store](https://itunes.apple.com/us/app/moonlight-game-streaming/id1000551566?mt=8) 
 
