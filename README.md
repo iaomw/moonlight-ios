@@ -1,6 +1,5 @@
-I want port this to OS X, because the Java or Chrome version are just too bad. Do it later.
-
-I need better performance and customable resolution.
+#I want port this to OS X, because the Java and Chrome version are just too bad.
+#I need better performance and customable resolution.
 
 #Moonlight iOS
 
